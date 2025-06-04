@@ -1,0 +1,48 @@
+Podsumowanie wywiadu medycznego:
+
+Jak się dzisiaj czujesz?
+ dobrze
+
+Czy masz gorączkę? Jeśli tak, od jak dawna?
+ nie
+
+Czy odczuwasz ból? Jeśli tak, w jakiej części ciała?
+ nie
+
+Czy występuję kaszel? Suchy czy mokry?
+ nie
+
+Czy występują inne objawy, takie jak zmęczenie, nudności lub wysypka?
+ nie
+
+Czy przyjmujesz jakieś leki?
+ nie
+
+Czy cierpisz na choroby przewlekłe?
+ nie
+
+Dziękujemy za wypełnienie wywiadu. Skontaktuj się z lekarzem w razie potrzeby.
+Podsumowanie wywiadu medycznego:
+
+Jak się dzisiaj czujesz?
+ dobrze
+
+Czy masz gorączkę? Jeśli tak, od jak dawna?
+ nie
+
+Czy odczuwasz ból? Jeśli tak, w jakiej części ciała?
+ nie
+
+Czy występuję kaszel? Suchy czy mokry?
+ nie
+
+Czy występują inne objawy, takie jak zmęczenie, nudności lub wysypka?
+ nie
+
+Czy przyjmujesz jakieś leki?
+ nie
+
+Czy cierpisz na choroby przewlekłe?
+ nie
+
+Dziękujemy za wypełnienie wywiadu. Skontaktuj się z lekarzem w razie potrzeby.
