@@ -6,7 +6,7 @@ from datetime import datetime
 import json
 
 file = None
-os.chdir('c:\\Users\\Kuba\\Desktop\\Nowy folder (4)')
+
 
 
 engine = pyttsx3.init()
